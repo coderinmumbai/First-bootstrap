@@ -1,0 +1,25 @@
+.navbar
+{
+  /* background: rgb(110,1,54);
+  background: linear-gradient(90deg, rgba(110,1,54,1) 6%, rgba(244,29,163,1) 44%, rgba(236,0,223,1) 75%, rgba(121,9,105,1) 100%); */
+
+  background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
+}
+.nav-link{
+  text-transform: bold;
+  color:rgb(19, 19, 19);
+
+}
+.nav-link:hover{
+  color:rgb(241, 231, 231);
+  font-size: 18px;
+}
+.navbar-brand:hover
+{
+  font-size: 25px;
+}
+
+footer{
+
+  background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
+}
